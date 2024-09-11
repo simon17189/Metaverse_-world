@@ -21,8 +21,8 @@ Commanded by remote expert Pilots in teams of four, CyberPersons are the ultimat
 ## Instruction
 
 ```
-https://github.com/kile97174/Metaverse_Space.git
-cd Metaverse_Space
+https://github.com/simon17189/Metaverse_-world.git
+cd Metaverse_-world
 npm install
 npm run start
 ```
